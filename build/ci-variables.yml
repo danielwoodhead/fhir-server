@@ -1,6 +1,6 @@
 variables:
     ResourceGroupRegion: 'southcentralus'
-    resourceGroupRoot: 'msh-fhir-ci'
+    resourceGroupRoot: 'yufei-fhir-ci'
     appServicePlanName: '$(resourceGroupRoot)-linux'
     DeploymentEnvironmentName: '$(resourceGroupRoot)'
     CrucibleEnvironmentUrl: 'https://crucible.mshapis.com/'
